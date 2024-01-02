@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hamzael91/Realtime-Chat-App.git/static/css/main.45ac4aa8.css",
+    "main.js": "/hamzael91/Realtime-Chat-App.git/static/js/main.f5894d51.js",
+    "index.html": "/hamzael91/Realtime-Chat-App.git/index.html",
+    "main.45ac4aa8.css.map": "/hamzael91/Realtime-Chat-App.git/static/css/main.45ac4aa8.css.map",
+    "main.f5894d51.js.map": "/hamzael91/Realtime-Chat-App.git/static/js/main.f5894d51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ac4aa8.css",
+    "static/js/main.f5894d51.js"
+  ]
+}
